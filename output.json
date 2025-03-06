@@ -1,0 +1,50 @@
+{
+    "video_id": "zuvRigQ45Rs",
+    "video_url": "https://www.youtube.com/shorts/zuvRigQ45Rs",
+    "transcript_language": "hi",
+    "analysis_timestamp": "2025-03-06T11:36:16.817Z",
+    "food_analysis": {
+      "restaurants": [
+        "Fermentation Stories",
+        "Malgudi Mylari Manni",
+        "Amritsari Viraat",
+        "Panam",
+        "Pajo Kitchen"
+      ],
+      "items": [
+        "Margherita pizza",
+        "Soft dosa",
+        "Butter masala dosa",
+        "Benne murgh fry",
+        "Dind gali",
+        "Battery beja 65",
+        "Goth chikk fry",
+        "Pork sausages",
+        "Noodles"
+      ],
+      "mapping": {
+        "Fermentation Stories": [
+          "Margherita pizza"
+        ],
+        "Malgudi Mylari Manni": [
+          "Soft dosa",
+          "Butter masala dosa"
+        ],
+        "Amritsari Viraat": [
+          "Benne murgh fry"
+        ],
+        "Panam": [
+          "Dind gali",
+          "Battery beja 65",
+          "Goth chikk fry"
+        ],
+        "Pajo Kitchen": [
+          "Pork sausages",
+          "Noodles"
+        ],
+        "unknown": []
+      },
+      "source_url": null,
+      "title": null
+    }
+  }
